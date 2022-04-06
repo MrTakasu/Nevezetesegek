@@ -1,3 +1,4 @@
+
 from Amerika import Amerika
 from Európa import Europa
 #from Ázsia import Ázsia

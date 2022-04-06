@@ -1,5 +1,5 @@
 def Europa():
-
+    print("Párizs 1/ London 2/ Barcelona 3/ Róma 4/ Velence 5")
     def Párizs():
         print("Eiffel-torony 1/ Louvre 2/ Arc de Triomphe(Diadalív) 3")
         def Eiffeltorony():
